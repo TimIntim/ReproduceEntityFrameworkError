@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveChildEntity", "RemoveChildEntity\RemoveChildEntity.csproj", "{178DE6ED-C7EF-4432-BFC0-27727DFE729B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveChildEntity", "RemoveChildEntity\RemoveChildEntity.csproj", "{C97D8DE7-A854-49C5-B1CB-4C354687BF55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{178DE6ED-C7EF-4432-BFC0-27727DFE729B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{178DE6ED-C7EF-4432-BFC0-27727DFE729B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{178DE6ED-C7EF-4432-BFC0-27727DFE729B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{178DE6ED-C7EF-4432-BFC0-27727DFE729B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C97D8DE7-A854-49C5-B1CB-4C354687BF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97D8DE7-A854-49C5-B1CB-4C354687BF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97D8DE7-A854-49C5-B1CB-4C354687BF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97D8DE7-A854-49C5-B1CB-4C354687BF55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
